@@ -1,5 +1,4 @@
 # excel-challenge
-# excel-challenge
 Assignment 1
 
 Instructions
